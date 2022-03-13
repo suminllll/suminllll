@@ -10,3 +10,5 @@ const Sumin = {
 ```
     
 <img src="https://img.shields.io/badge/Html5-red?"/> <img src="https://img.shields.io/badge/Javascript-yellow?"/> <img src="https://img.shields.io/badge/Sass-pink?"/> <img src="https://img.shields.io/badge/styled_component-blue?"/>  <img src="https://img.shields.io/badge/React-black?"/>
+
+velog_https://velog.io/@suminllll
