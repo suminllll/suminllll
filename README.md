@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**suminllll/suminllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Sumin! 
+## Frontend Developer 👨‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Sumin = {
+    frontEnd: ['Web', 'html5', 'css3', 'scss', 'styled-component', 'Javascript', 'React'],
+    interested: 'android', 'IOS',
+    }
+```
+    
+<img src="https://img.shields.io/badge/Html5-red?"/> <img src="https://img.shields.io/badge/Javascript-yellow?"/> <img src="https://img.shields.io/badge/Sass-pink?"/> <img src="https://img.shields.io/badge/styled_component-blue?"/>  <img src="https://img.shields.io/badge/React-black?"/>
