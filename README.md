@@ -4,7 +4,10 @@
 
 ```js
 const Sumin = {
-    frontEnd: ['Web', 'html5', 'css3', 'scss', 'styled-component', 'Javascript', 'React', 'Next.js'],
+        frontEnd: ['Web', 'html5', 'css3', 'scss', 'styled-component', 'TypeScript', 'Javascript', 'React', 'Next.js'],
+    },
+    {
+      backEnd: [ 'Prisma', 'Mysql', 'MariaDB', 'Express' ] 
     }
 ```
     
