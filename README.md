@@ -4,7 +4,7 @@
 
 ```js
 const Web = {
-      frontEnd: ['html5', 'css3', 'scss', 'styled-component', 'TypeScript', 'Javascript', 'React', 'Next.js'],
+      frontEnd: [ 'TypeScript', 'Javascript', 'React', 'Next.js', 'styled-component',  'Scss', 'html5', 'css3'],
     },
     {
       backEnd: [ 'Prisma', 'Mysql', 'MariaDB', 'Express', 'Node.js' ] 
