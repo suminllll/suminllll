@@ -3,11 +3,11 @@
 ## Frontend Developer 👨‍💻
 
 ```js
-const Sumin = {
-      frontEnd: ['Web', 'html5', 'css3', 'scss', 'styled-component', 'TypeScript', 'Javascript', 'React', 'Next.js'],
+const Web = {
+      frontEnd: ['html5', 'css3', 'scss', 'styled-component', 'TypeScript', 'Javascript', 'React', 'Next.js'],
     },
     {
-      backEnd: [ 'Prisma', 'Mysql', 'MariaDB', 'Express' ] 
+      backEnd: [ 'Prisma', 'Mysql', 'MariaDB', 'Express', 'Node.js' ] 
     }
 ```
     
